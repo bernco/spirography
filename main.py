@@ -5,7 +5,6 @@ my_turtle = Turtle()
 my_turtle.shape("arrow")
 my_turtle.speed(0)
 my_color_mode = colormode(255)
-direction = [0, 90, 180, 270]
 
 
 def color_maker():
