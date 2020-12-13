@@ -22,7 +22,8 @@ def draw_spiral(gap_size):
         my_turtle.pencolor(color_maker())
 
 
-draw_spiral(2)
+draw_spiral(3)
+my_turtle.hideturtle()
 
 my_screen = Screen()
 my_screen.exitonclick()
