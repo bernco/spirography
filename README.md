@@ -5,4 +5,4 @@ you can change the gap size in the draw_spiral function by passing the gap size 
 
 The radius of the circle is 100
 
-![Spirograph](spirograph.PNG)
+![](spiro.gif)![Spirograph](spirograph.PNG)
